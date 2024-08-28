@@ -1,0 +1,7 @@
+Package: *
+Pin: release v=20.04,o=LP-PPA-savoury1*
+Pin-Priority: 990
+
+Package: *
+Pin: origin ""
+Pin-Priority: 1010
